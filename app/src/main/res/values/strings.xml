@@ -1,0 +1,19 @@
+<resources>
+    <!-- Nombre de la app -->
+    <string name="app_name">autonomo4</string>
+
+    <!-- Textos de la interfaz -->
+    <string name="welcome">BIENVENIDO</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="iniciar">Iniciar sesión</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="recordarme">Recordarme</string>
+
+    <!-- Mensajes de error -->
+    <string name="error_usuario">Por favor, ingrese su nombre de usuario.</string>
+    <string name="error_correo">Por favor, ingrese un correo válido.</string>
+    <string name="error_contrasena">Por favor, ingrese su contraseña.</string>
+    <string name="recordarme2">Recordarme</string>
+</resources>
